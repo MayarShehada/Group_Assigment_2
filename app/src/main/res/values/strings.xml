@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Group_Assignment_2</string>
+    <string name="welcome_to_our_addidas_shop">Welcome to Mario Shop</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="_0">0</string>
+    <string name="brand">brand</string>
+    <string name="search_here">Search Here</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="total_products">Total Products</string>
+    <string name="there_is_products_on_the_cart">There is products on the cart</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total_price">Total Price</string>
+    <string name="_14_tax">14% tax</string>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
